@@ -771,7 +771,7 @@ Total: **100 points**. Each step is graded on correctness, performance (within a
 
 ## Submission
 
-We use the auto-grading feature in **Autolab** to score your submission. Please follow the instructions carefully.
+Please follow the instructions carefully.
 
 ### What is graded
 
